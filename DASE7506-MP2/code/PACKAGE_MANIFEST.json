@@ -1,0 +1,32 @@
+{
+  "protocol": "dase7506-mp2-open-hard-verifier-v5",
+  "files": {
+    ".gitignore": "fa4ab1c93037c67c128e3d0bc06466acbdcbf1cab1e9c0a9582f146306d4896e",
+    "EXPERIMENTS.md": "683e41c29e3f6444d08d1a748a148641577ab4f3fbbe53767a039ce67848c69d",
+    "code/README.md": "5795c4e3b44bebeaa132e4b7db205a37e85f4dab1c97ecb8780df283578260fa",
+    "code/check_data.py": "32f203e156e3019f87bb038ade4f303da21ca2f1694bb678a3ddc44661f0b533",
+    "code/common.py": "aecd10f7ff2e9e82ac5673d34d576e122caac51d2caaa7c7a8aa05906da51f6c",
+    "code/data/LICENSE.txt": "86bbb73e855821d7c401912fd4bf82e34313e6e3b6fd6f909f2b6cc9e209a53b",
+    "code/data/NOTICE.txt": "d577cdf7202ae22f2b19ace348b0ec69958a59aaf51d30cdab902bf7c1e67d78",
+    "code/data/candidates/gsm8k_test.jsonl": "1d7b4cc651bbe7258b59c3ab4af4b0f8b6b0975975d98dadea3a4050d78b6e70",
+    "code/data/candidates/gsm8k_test.npz": "b0805775b3902fa363253c83b850fc59c359d886a449fe4444393b8e355f0f63",
+    "code/data/candidates/gsm8k_train.jsonl": "38fa2e71c030ae301e6a87366e0700453a56d14abe73f2d14504b9cd0749ed43",
+    "code/data/candidates/gsm8k_train.npz": "3bb3d5dcbc71dc64e671c03f965594f91e195acd2be01012476d8b966a6ba1d2",
+    "code/data/candidates/gsm8k_validation.jsonl": "f2ca7c7c7effa91e6a2e99c597ae13b9369d776f0c08d68622e8671b8229045a",
+    "code/data/candidates/gsm8k_validation.npz": "a0c6c8e1919bf7e7ffe887b39954e0c905bbd4429b05135fe3fc9f4087a2c881",
+    "code/data/gsm8k_test.jsonl": "60fe0e964e2e70c05f612823a04655a474512bf73821fafa88111313a9d87c16",
+    "code/data/gsm8k_train.jsonl": "acc662ed0328b5d38b2dee6f72ddcc956073df4ffb2ef4c4ba668cf445a92003",
+    "code/data/gsm8k_validation.jsonl": "ae1522df02497e780909e208ffb4101788e97b4a5eabf883c56bb7fe40d13025",
+    "code/data/manifest.json": "8b3721d458e48c87eab3a28f660e663981b10617b6e7321123c6ff30b1fbe825",
+    "code/predict.py": "4296315a866a97b735a482444a19ba20558801ff6f7a5ba735ee6f38fc73742b",
+    "code/requirements-train.txt": "613735bd622293a3239555dad6ba26f304df8175156f2f995b9b1db60e6ba824",
+    "code/requirements.txt": "5c12d85e7c08038d1dd9ffbf8119d12ce808885230a47e2bf65dcd9f114659d5",
+    "code/runs/model_bundle_final/model.npz": "16dc853ea24bba86076ce550a3d01bafbffc58f47397af2a33fc50399fc14794",
+    "code/runs/model_bundle_final/test-score.json": "0c8bf0594fc813a203850bc1c5d1874bde061b8f6834232d64393cb530f7df5a",
+    "code/runs/model_bundle_final/training_summary.json": "d8fc90a34ae9d355db547ef5091ce05f34b017ca7a6849932eef99e43b75a3d1",
+    "code/score_predictions.py": "97795b553e7c6102f8ab969ec2fb56cf333a56a50a30bb7c6e7763091c1d8a04",
+    "code/submission.py": "c1cc0d8ae8cc00b50065f94f232e76e8fd38b44e6aee7ae8986af91e1947f1ac",
+    "code/train_final_refit.py": "63e759010ba2d7cefcc2b8a04b03cdf366b93c5a4ceb8ee9fba2a66fe9924502",
+    "guide/GUIDE.md": "7b4ab87265040f407854cdfb9860887f722008d24e03fffe311f99c2f2065130"
+  }
+}

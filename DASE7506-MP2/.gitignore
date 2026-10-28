@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+runs/*
+!runs/
+runs/*
+!runs/model_bundle/
+runs/model_bundle/*
+!runs/model_bundle/model.npz
+!runs/model_bundle/training_summary.json
+!runs/validation-score.json
+!runs/validation-predictions.json
+!runs/test-score.json
+!runs/test-predictions.json

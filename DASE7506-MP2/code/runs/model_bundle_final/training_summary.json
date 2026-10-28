@@ -1,0 +1,33 @@
+{
+  "method": "3-seed linear listwise+pairwise ranking ensemble refit on train+validation after development selection",
+  "training_questions_original": 4755,
+  "validation_questions_added_after_selection": 798,
+  "informative_groups_used": 2469,
+  "feature_count": 1105,
+  "epochs_per_seed": 26,
+  "seeds": [
+    17,
+    42,
+    123
+  ],
+  "models": [
+    {
+      "seed": 17,
+      "epochs": 26,
+      "final_training_loss": 0.3718752540647984
+    },
+    {
+      "seed": 42,
+      "epochs": 26,
+      "final_training_loss": 0.3800113439559937
+    },
+    {
+      "seed": 123,
+      "epochs": 26,
+      "final_training_loss": 0.3719378113746643
+    }
+  ],
+  "checkpoint_bytes": 22224,
+  "test_references_read": false,
+  "elapsed_seconds": 15.9
+}
